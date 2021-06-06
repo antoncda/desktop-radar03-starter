@@ -1,0 +1,16 @@
+//to run
+yarn electron:serve
+
+//to build
+yarn electron:build
+
+//Git
+git init
+git add .
+git commit . -m ""
+git add remote <remotename> link
+git push remote master
+
+references:
+https://www.youtube.com/watch?v=8ZmpYiDoqO4
+https://www.youtube.com/watch?v=oAaS9ix8pes&t=303s
