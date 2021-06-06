@@ -8,7 +8,7 @@ yarn electron:build
 git init
 git add .
 git commit . -m ""
-git add remote <remotename> link
+git remote add <remotename> link
 git push remote master
 
 references:
