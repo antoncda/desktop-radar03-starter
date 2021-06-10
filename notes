@@ -1,3 +1,6 @@
+Notes:
+Basic starter with default react app for file folder.
+
 //to run
 yarn electron:serve
 
